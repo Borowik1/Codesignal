@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07 - Almost Increasing Sequence", "06 - Almost Increasing Sequence\07 - Almost Increasing Sequence.csproj", "{9C31EF41-9EEB-4F7D-8B06-563E5AFE747D}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08 - Matrix Elements Sum", "08 - Matrix Elements Sum\08 - Matrix Elements Sum.csproj", "{AB1B3F99-3EA9-4F6E-A01C-A81FAD13B9FF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09 - All Longest Strings", "09 - All Longest Strings\09 - All Longest Strings.csproj", "{802973C9-FFFD-4859-9399-62C933855FE0}"
@@ -27,17 +25,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17 - Array Change", "17 - A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18 - Palindrome Rearranging", "18 - Palindrome Rearranging\18 - Palindrome Rearranging.csproj", "{A33ACD92-51A1-4C26-81A6-E39C6542FB93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 - Add", "01 - Add\01 - Add.csproj", "{AFF07A5E-9683-4605-A298-56BD6DCAEE26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01 - Add", "01 - Add\01 - Add.csproj", "{AFF07A5E-9683-4605-A298-56BD6DCAEE26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 - Century From Year", "02 - Century From Year\02 - Century From Year.csproj", "{3F9C59B6-F9BE-48D5-A33B-A2559E5CC053}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02 - Century From Year", "02 - Century From Year\02 - Century From Year.csproj", "{3F9C59B6-F9BE-48D5-A33B-A2559E5CC053}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 - Check Palindrome", "03 - Check Palindrome\03 - Check Palindrome.csproj", "{22520B19-00C9-4BD2-B793-DAF14AF5CC3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03 - Check Palindrome", "03 - Check Palindrome\03 - Check Palindrome.csproj", "{22520B19-00C9-4BD2-B793-DAF14AF5CC3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 - Adjacent Elements Product", "04 - Adjacent Elements Product\04 - Adjacent Elements Product.csproj", "{CE753B13-23EC-4409-9C93-57D3AB72346B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04 - Adjacent Elements Product", "04 - Adjacent Elements Product\04 - Adjacent Elements Product.csproj", "{CE753B13-23EC-4409-9C93-57D3AB72346B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 - Shape Area", "05 - Shape Area\05 - Shape Area.csproj", "{87B6B6A0-AA5C-4A4D-9FD2-8CBCE4BAFAE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05 - Shape Area", "05 - Shape Area\05 - Shape Area.csproj", "{87B6B6A0-AA5C-4A4D-9FD2-8CBCE4BAFAE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 - Make Array Consecutive 2", "06 - Make Array Consecutive 2\06 - Make Array Consecutive 2.csproj", "{A151B75A-4031-4AE2-B82E-53EE804E1C60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06 - Make Array Consecutive 2", "06 - Make Array Consecutive 2\06 - Make Array Consecutive 2.csproj", "{A151B75A-4031-4AE2-B82E-53EE804E1C60}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07 - Almost Increasing Sequence", "07 - Almost Increasing Sequence\07 - Almost Increasing Sequence.csproj", "{392DAC29-04FE-4E89-946D-EBB84DBE7995}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,10 +45,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9C31EF41-9EEB-4F7D-8B06-563E5AFE747D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9C31EF41-9EEB-4F7D-8B06-563E5AFE747D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9C31EF41-9EEB-4F7D-8B06-563E5AFE747D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9C31EF41-9EEB-4F7D-8B06-563E5AFE747D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AB1B3F99-3EA9-4F6E-A01C-A81FAD13B9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AB1B3F99-3EA9-4F6E-A01C-A81FAD13B9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB1B3F99-3EA9-4F6E-A01C-A81FAD13B9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -117,6 +113,10 @@ Global
 		{A151B75A-4031-4AE2-B82E-53EE804E1C60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A151B75A-4031-4AE2-B82E-53EE804E1C60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A151B75A-4031-4AE2-B82E-53EE804E1C60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{392DAC29-04FE-4E89-946D-EBB84DBE7995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392DAC29-04FE-4E89-946D-EBB84DBE7995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392DAC29-04FE-4E89-946D-EBB84DBE7995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392DAC29-04FE-4E89-946D-EBB84DBE7995}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
