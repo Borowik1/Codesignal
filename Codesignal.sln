@@ -39,11 +39,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06 - Make Array Consecutive
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07 - Almost Increasing Sequence", "07 - Almost Increasing Sequence\07 - Almost Increasing Sequence.csproj", "{392DAC29-04FE-4E89-946D-EBB84DBE7995}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19 - Are Equally Strong", "19 - Are Equally Strong\19 - Are Equally Strong.csproj", "{AA217519-C4DF-4009-81C1-FE4C04EBE2E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19 - Are Equally Strong", "19 - Are Equally Strong\19 - Are Equally Strong.csproj", "{AA217519-C4DF-4009-81C1-FE4C04EBE2E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20 - Array Maximal Adjacent Difference", "20 - Array Maximal Adjacent Difference\20 - Array Maximal Adjacent Difference.csproj", "{E7B124CB-A92F-48BE-811D-C7F7A11D676C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20 - Array Maximal Adjacent Difference", "20 - Array Maximal Adjacent Difference\20 - Array Maximal Adjacent Difference.csproj", "{E7B124CB-A92F-48BE-811D-C7F7A11D676C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21 - Is IPv4 Address", "21 - Is IPv4 Address\21 - Is IPv4 Address.csproj", "{EBFA9743-79B8-479C-800C-DAD84936F324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22 - Avoid Obstacles", "22 - Avoid Obstacles\22 - Avoid Obstacles.csproj", "{05838FA5-962D-47F0-8832-664CB050B0DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{EBFA9743-79B8-479C-800C-DAD84936F324}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBFA9743-79B8-479C-800C-DAD84936F324}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBFA9743-79B8-479C-800C-DAD84936F324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05838FA5-962D-47F0-8832-664CB050B0DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05838FA5-962D-47F0-8832-664CB050B0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05838FA5-962D-47F0-8832-664CB050B0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05838FA5-962D-47F0-8832-664CB050B0DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

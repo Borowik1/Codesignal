@@ -19,8 +19,11 @@ namespace _21___Is_IPv4_Address
 
         static bool isIPv4Address(string inputString)
         {
-
-            if (!Regex.IsMatch(inputString, @"(^[0-9]{1,3}['.']){3}[0-9]{1,3}"))
+            if (!Regex.IsMatch(inputString, @"^([0-9]{1,3}['.']){3}[0-9]{1,3}$"))
+            {
+                return false;
+            }
+            if (Regex.IsMatch(inputString, @"[0]{1,3}\d"))
             {
                 return false;
             }
@@ -29,10 +32,17 @@ namespace _21___Is_IPv4_Address
 
             foreach (string item in splittedAddress)
             {
-                int b = int.Parse(item);
-                if (b < 0 || b > 255)
+                if (item == "00")
                 {
                     return false;
+                }
+                else
+                {
+                    int b = int.Parse(item);
+                    if (b < 0 || b > 255)
+                    {
+                        return false;
+                    }
                 }
             }
 
