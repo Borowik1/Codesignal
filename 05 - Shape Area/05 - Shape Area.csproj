@@ -6,4 +6,8 @@
     <RootNamespace>_05___Shape_Area</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\03 - Check Palindrome\03 - Check Palindrome.csproj" />
+  </ItemGroup>
+
 </Project>
