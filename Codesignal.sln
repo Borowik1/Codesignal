@@ -85,6 +85,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40 - Longest Digits Prefix"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41 - Digit Degree", "41 - Digit Degree\41 - Digit Degree.csproj", "{0559AEC9-FBC3-46EB-B831-1D15BC05F294}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42 - Bishop and Pawn", "42 - Bishop and Pawn\42 - Bishop and Pawn.csproj", "{A1D64021-2AA0-4AEF-AF69-C9590019EE17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "43 - Is Beautiful String", "43 - Is Beautiful String\43 - Is Beautiful String.csproj", "{C2D68FD3-146A-4F77-BFB0-1916D4FC4C18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "44 - Find Email Domain", "44 - Find Email Domain\44 - Find Email Domain.csproj", "{918900D8-79FE-4B87-8AD2-B312185AF22A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +261,18 @@ Global
 		{0559AEC9-FBC3-46EB-B831-1D15BC05F294}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0559AEC9-FBC3-46EB-B831-1D15BC05F294}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0559AEC9-FBC3-46EB-B831-1D15BC05F294}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1D64021-2AA0-4AEF-AF69-C9590019EE17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D64021-2AA0-4AEF-AF69-C9590019EE17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D64021-2AA0-4AEF-AF69-C9590019EE17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D64021-2AA0-4AEF-AF69-C9590019EE17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2D68FD3-146A-4F77-BFB0-1916D4FC4C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D68FD3-146A-4F77-BFB0-1916D4FC4C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D68FD3-146A-4F77-BFB0-1916D4FC4C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D68FD3-146A-4F77-BFB0-1916D4FC4C18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{918900D8-79FE-4B87-8AD2-B312185AF22A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918900D8-79FE-4B87-8AD2-B312185AF22A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918900D8-79FE-4B87-8AD2-B312185AF22A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918900D8-79FE-4B87-8AD2-B312185AF22A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
