@@ -91,6 +91,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "43 - Is Beautiful String", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "44 - Find Email Domain", "44 - Find Email Domain\44 - Find Email Domain.csproj", "{918900D8-79FE-4B87-8AD2-B312185AF22A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "45 - Build Palindrome", "45 - Build Palindrome\45 - Build Palindrome.csproj", "{23C946F6-8EED-4E4F-9450-F783B9B48094}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "46 - Election Winners", "46 - Election Winners\46 - Election Winners.csproj", "{224A061C-1043-4C53-9DA0-AD33D0806346}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "47 - Is MAC48 Address", "47 - Is MAC48 Address\47 - Is MAC48 Address.csproj", "{618BACEB-B9E1-445B-981D-B650527568C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "48 - Is Digit", "48 - Is Digit\48 - Is Digit.csproj", "{32B3BEDB-E58C-4334-8A47-CBC8A0A0D113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "49 - Line Encoding", "49 - Line Encoding\49 - Line Encoding.csproj", "{724760C5-DEBE-431C-A17C-35D043D555B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -273,6 +283,26 @@ Global
 		{918900D8-79FE-4B87-8AD2-B312185AF22A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{918900D8-79FE-4B87-8AD2-B312185AF22A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{918900D8-79FE-4B87-8AD2-B312185AF22A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23C946F6-8EED-4E4F-9450-F783B9B48094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C946F6-8EED-4E4F-9450-F783B9B48094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C946F6-8EED-4E4F-9450-F783B9B48094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C946F6-8EED-4E4F-9450-F783B9B48094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{224A061C-1043-4C53-9DA0-AD33D0806346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224A061C-1043-4C53-9DA0-AD33D0806346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224A061C-1043-4C53-9DA0-AD33D0806346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224A061C-1043-4C53-9DA0-AD33D0806346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{618BACEB-B9E1-445B-981D-B650527568C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{618BACEB-B9E1-445B-981D-B650527568C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{618BACEB-B9E1-445B-981D-B650527568C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{618BACEB-B9E1-445B-981D-B650527568C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32B3BEDB-E58C-4334-8A47-CBC8A0A0D113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B3BEDB-E58C-4334-8A47-CBC8A0A0D113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B3BEDB-E58C-4334-8A47-CBC8A0A0D113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B3BEDB-E58C-4334-8A47-CBC8A0A0D113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{724760C5-DEBE-431C-A17C-35D043D555B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724760C5-DEBE-431C-A17C-35D043D555B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724760C5-DEBE-431C-A17C-35D043D555B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724760C5-DEBE-431C-A17C-35D043D555B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
